@@ -35,7 +35,7 @@ Always open to learning from others and improving my approach to writing softwar
 ---
 
 # 📈 ****GitHub Stats****
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdmytrk&layout=compact&theme=tokyonight" style="width:400px;"/>
 
 ---
 
