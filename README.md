@@ -11,8 +11,8 @@ Over the years I’ve worked on:
 On GitHub I share:
 *   portfolio projects,
 *   implementing **authentication and authorization** with Identity,
-- experiments with **data visualization (D3.js + TypeScript)**,
-- practical examples of backend and database integration.
+*   experiments with **data visualization (D3.js + TypeScript)**,
+*   practical examples of backend and database integration.
 
 Always open to learning from others and improving my approach to writing software.
 
@@ -40,11 +40,13 @@ Always open to learning from others and improving my approach to writing softwar
 ---
 
 # 📌 ****Featured Project****
-🌌 Astronomic Catalogs
+**Astronomic Catalogs**  🌌  
 A portfolio-ready full-stack project demonstrating architectural design, Identity customization, stored procedures integration, and dynamic frontend with TypeScript & D3.js.  
 *   Backend: ASP.NET Core 9, EF Core 9, SQL Server (stored procedures, ETL)
 *   Frontend: Bootstrap, LESS, TypeScript, SignalR, SweetAlert2
 *   Infrastructure: Azure SQL, Azure DevOps (Repos, Boards, Pipelines)
-  
-🔗 Live demo
+   
+✨   [Live demo](https://newastrocatalogs.azurewebsites.net)  
+💻   [Main repository *(active development)*](https://dev.azure.com/voldmytcOrganization/_git/Astronomic%20Catalogs/)  
+💻   [Mirror on GitHub *(read-only)*](https://github.com/vdmytrk/Astronomic_Catalogs)  
 
