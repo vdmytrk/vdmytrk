@@ -26,11 +26,11 @@ Always open to learning from others and improving my approach to writing softwar
 
 
 # 🚀 ****Tech Stack****
-*   Languages: C#, SQL (T-SQL, PL/SQL), JavaScript, TypeScript
-*   Frameworks: .NET Core / .NET 9, ASP.NET MVC, Web API, Entity Framework Core, ADO.NET, LINQ, NUnit, FakeItEasy
-*   Frontend: HTML, CSS, Bootstrap, jQuery
-*   Databases: Microsoft SQL Server, Oracle
-*   Tools & Practices: Git, Docker, RabbitMQ, TeamCity, Azure DevOps, CI/CD
+**Backend & Architecture**: C#, .NET Core, ASP.NET MVC, Web API, EF Core, ADO.NET, LINQ  
+**Databases**: MS SQL Server, Oracle, PL/SQL, T-SQL, Stored Procedures, SQL Optimization  
+**Frontend**: TypeScript, JavaScript, jQuery, Bootstrap, LESS, HTML, CSS  
+**Testing**: NUnit, SpecFlow, FakeItEasy, Unit Testing, Integration Testing, Scenario-based Testing  
+**Tools & DevOps**: Git, Azure DevOps, GitHub, Docker, RabbitMQ, TeamCity, Postman, CI/CD (Pipelines)  
 
 ---
 
