@@ -49,4 +49,5 @@ A portfolio-ready full-stack project demonstrating architectural design, Identit
 ✨   [Live demo](https://newastrocatalogs.azurewebsites.net)  
 💻   [Main repository *(active development)*](https://dev.azure.com/voldmytcOrganization/_git/Astronomic%20Catalogs/)  
 💻   [Mirror on GitHub *(read-only)*](https://github.com/vdmytrk/Astronomic_Catalogs)  
+⚙️   [Dashboard](https://dev.azure.com/voldmytcOrganization/Astronomic%20Catalogs/_dashboards/dashboard/afcb5290-0b24-4d15-b980-73f188b335be)
 
