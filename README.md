@@ -1,6 +1,6 @@
 # 👨‍💻 ****About me****
 I'm a .NET developer with 4+ years of experience working on enterprise and web applications but now I’m also developing my own side projects.  
-Most of my work is focused on **ASP.NET Core**, **Entity Framework**, and **SQL Server**, but I also use **JavaScript**, **TypeScript**, and **Bootstrap** when building user interfaces.    
+Most of my work is focused on **ASP.NET Core**, and **SQL Server**, but I also use **JavaScript**, **TypeScript**, and **Bootstrap** when building user interfaces.    
    
 Over the years I’ve worked on:
 *   building **MVC**, **APIs** and microservices,
