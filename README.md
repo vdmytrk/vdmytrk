@@ -3,7 +3,7 @@ I'm a .NET developer with 4+ years of experience working on enterprise and web a
 Most of my work is focused on **ASP.NET Core**, and **SQL Server**, but I also use **JavaScript**, **TypeScript**, and **Bootstrap** when building user interfaces.    
    
 Over the years I’ve worked on:
-*   building **MVC**, **APIs** and microservices,
+*   building **MVC**, **APIs** and **microservices**,
 *   integrating systems with **SQL databases** (MS SQL, Oracle),
 *   writing and optimizing **stored procedures**,
 *   setting up **CI/CD pipelines**
